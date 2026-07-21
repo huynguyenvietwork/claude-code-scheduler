@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local logs
+logs/
+*.log
+nohup.out
+
+# Local configurations containing credentials/settings
+config.json
+
+# OS specific files
+.DS_Store
+Thumbs.db

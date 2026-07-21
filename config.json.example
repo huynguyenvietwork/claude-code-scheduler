@@ -1,0 +1,6 @@
+{
+  "schedule_time": "05:00",
+  "wake_up_prompt": "Hello Claude, wake up check. Please reply with 'OK' only.",
+  "jitter_min": 30,
+  "jitter_max": 120
+}
